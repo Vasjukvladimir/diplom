@@ -1,0 +1,6 @@
+@WeAIBackend_HostAddress = http://localhost:5168
+
+GET {{WeAIBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
